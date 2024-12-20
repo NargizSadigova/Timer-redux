@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Timer-redux/static/css/main.58ef233a.css",
+    "main.js": "/Timer-redux/static/js/main.1875cf20.js",
+    "index.html": "/Timer-redux/index.html",
+    "main.58ef233a.css.map": "/Timer-redux/static/css/main.58ef233a.css.map",
+    "main.1875cf20.js.map": "/Timer-redux/static/js/main.1875cf20.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.58ef233a.css",
+    "static/js/main.1875cf20.js"
+  ]
+}
